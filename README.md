@@ -74,7 +74,12 @@ Write a function called user_name that generates a username from the user’s em
     Write a function called zeroed code that takes a list of numbers as an argument. The code should zero (0) the first and the last number in the list. For example, if the input is [2, 5, 7, 8, 9], your code should return [0, 5, 7, 8, 0].
 
 Day 7: 
-    A String Range Extra Challenge: 
+    A String Range 
+    Write a function called string_range that takes a single number and returns a string of its range. The string characters should be separated by dots(.) For example, if you pass 6 as an argument, your function should return ‘0.1.2.3.4.5’.
+    
+    
+    
+    Extra Challenge: 
     Dictionary of names
 
 Day 8:
