@@ -71,6 +71,8 @@ Write a function called user_name that generates a username from the user’s em
 
     Extra Challenge: Zero Both ends
 
+    Write a function called zeroed code that takes a list of numbers as an argument. The code should zero (0) the first and the last number in the list. For example, if the input is [2, 5, 7, 8, 9], your code should return [0, 5, 7, 8, 0].
+
 Day 7: 
     A String Range Extra Challenge: 
     Dictionary of names
