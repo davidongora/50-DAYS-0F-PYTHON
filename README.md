@@ -59,9 +59,16 @@ Day 5:
     
     Extra Challenge: 
     Tuple of Student Sex
+    You work for a school and your boss wants to know how many female and male students are enrolled in the school. The school has saved the students in a list. Your task is to write a code that will count how many males and females are in the list. Here is a list below:
+    students = ['Male', 'Female', 'female', 'male', 'male', 'male', 'female', 'male', 'Female', 'Male', 'Female', 'Male', 'female']
+    Your code should return a list of tuples. The list above should return:
+    [(‘Male’,7), (‘female’,6)]
 
 Day 6:
      User Name Generator
+
+Write a function called user_name that generates a username from the user’s email. The code should ask the user to input an email and the code should return everything before the @ sign as their user name. For example, if someone enters ben@gmail.com, the code should return ben as their user name.
+
     Extra Challenge: Zero Both ends
 
 Day 7: 
