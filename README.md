@@ -165,3 +165,11 @@ Extra Challenge:
     Multiply Words s = "love live and laugh"
     Write a function called multiply_words that takes a string as an argument and multiplies the length of each word in the string by the length of other words in the string. For example, the string above should return 240 - love (4) live (4) and (3) laugh (5). However, your function should only multiply words will all lowercase letters. If a word has one upper case letter, it should be ignored. For example, the following string:
     s = "Hate war love Peace" should return 12 – war (3) love (4). Hate and Peace will be ignored because they have at least one uppercase letter.
+
+
+Day 24
+    Create a function called average_calories that calculates the average calories intake of a user. The function should ask the user to input their calories intake for any number of days and once they hit ‘done’ it should calculate and return the average intake.
+
+Extra Challenge: Create a Nested List
+    Write a function called nested_lists that takes any number of lists and creates a 2-dimensional nested list of lists. For example, if you pass the following lists as arguments: [1, 2, 3, 5], [1, 2, 3, 4], [1, 3, 4, 5].
+    Your code should return: [[1, 2, 3, 5], [1, 2, 3, 4], [1, 3, 4, 5]]
