@@ -152,3 +152,9 @@ Day 21:
 
 Extra Challenge: Even Number or Average
 Write a function called even_or_average that ask a user to input five numbers. Once the user is done, the code should return the largest even number in the inputted numbers. If there is no even number in the list, the code should return the average of all the five numbers.
+
+Day 22:
+
+Create three functions. The first called add_hash takes a string and adds a hash # between the words. The second function called add_underscore removes the hash (#) and replaces it with an underscore "_" The third function called remove_underscore, removes the underscore and replaces it with nothing. if you pass ‘Python’ as an argument for the three functions, and you call them at the same time like: print(remove_underscore(add_underscore(add_hash('Python'))))
+it should return ‘Python’.
+
