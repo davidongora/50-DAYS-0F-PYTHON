@@ -106,11 +106,20 @@ Day 10:
     Hide my Password
     Write a function called hide_password that takes no parameters. The function takes an input (a password) from a user and returns a hidden password. For example, if the user enters ‘hello’ as a password the function should return ‘****’ as a password and tell the user that the password is 4 characters long.
 
-    
+
     Extra Challenge: A Thousand Separator
+    Your new company has a list of figures saved in a list. The issue is that these numbers have no separator. The numbers are saved in the following format:
+    [1000000, 2356989, 2354672, 9878098].
+    You have been asked to write a code that will convert each of the numbers in the list into a string. Your code should then add a comma on each number as a thousand separator for readability. When you run your code on the above list, your output should be:
+    [ '1,000,000', '2,356,989', '2,354,672', '9,878,098’]
+    Write a function called convert_numbers that will take one argument, a list of numbers above.
 
 Day 11: 
     Are They Equal?
+
+    Write a function called equal_strings. The function takes two strings as arguments and compares them. If the strings are equal (if they have the same characters and have equal length), it should return True, if they are not, it should return False. For example, ‘love’ and ‘evol’ should return True.
+
+    
     Extra Challenge: Swap Values
 
 Day 12: 
