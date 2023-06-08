@@ -200,7 +200,12 @@ Write a function called user_name, that creates a username for the user. The fun
 
     Extra Challenge: Sort by Length
     
-    
+    names = [ "Peter", "Jon", "Andrew"]
+Write a function called sort_length that takes a list of strings as an argument, and sorts the strings in ascending order according to their length. For example, the list above should return:
+['Jon', 'Peter', 'Andrew']
+Do not use the built-in sort functions
+
+
 Day 18: Any Number of Arguments 
     Extra Challenge: Add and Reverse
 Day 19: 
