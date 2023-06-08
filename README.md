@@ -146,6 +146,14 @@ Write a function called your_vat. The function takes no parameter. The function 
 
 
     Extra Challenge: Pyramid of Snakes 
+
+    Write a function called Python_snakes that takes a number as an argument and creates the following shape, using the number’s range: (hint: Use the loops and emoji library. If you pass 7 as argument, your code should print the following:
+ 
+  
+   
+    
+     
+      
    
 Day 14: 
     Flatten the List
