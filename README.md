@@ -185,6 +185,10 @@ Write a function called sum_list with one parameter that takes a nested list of 
     Extra Challenge: Unpack A Nest 
 
 
+Nested_list = [[12, 34, 56, 67], [34, 68, 78]]
+Write a code that generates a list of the following numbers from the nested list above – 34, 67, 78. Your output should be another list:
+[34, 67, 78]. The list output should not have duplicates.
+
 Day 17: User Name Generator
     Extra Challenge: Sort by Length
     
