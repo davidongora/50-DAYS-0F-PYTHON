@@ -249,3 +249,6 @@ Day 24
 Extra Challenge: Create a Nested List
     Write a function called nested_lists that takes any number of lists and creates a 2-dimensional nested list of lists. For example, if you pass the following lists as arguments: [1, 2, 3, 5], [1, 2, 3, 4], [1, 3, 4, 5].
     Your code should return: [[1, 2, 3, 5], [1, 2, 3, 4], [1, 3, 4, 5]]
+
+Day 25
+Create a function called all_the_same that takes one argument, a string, a list, or a tuple and checks if all the elements are the same. If the elements are the same, the function should return True. If not, it should return Fals
