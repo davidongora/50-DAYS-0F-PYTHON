@@ -251,4 +251,9 @@ Extra Challenge: Create a Nested List
     Your code should return: [[1, 2, 3, 5], [1, 2, 3, 4], [1, 3, 4, 5]]
 
 Day 25
-Create a function called all_the_same that takes one argument, a string, a list, or a tuple and checks if all the elements are the same. If the elements are the same, the function should return True. If not, it should return Fals
+Create a function called all_the_same that takes one argument, a string, a list, or a tuple and checks if all the elements are the same. If the elements are the same, the function should return True. If not, it should return False
+
+Extra challenge
+
+str1 = "the love is real"
+Write a function called read_backwards that takes a string as an argument and reverses it. For example, the string above should return: "real is love the"
