@@ -266,3 +266,9 @@ Extra challenge
 s = 'Hi my name is Richard'
 Write a function called string_length that takes a string of words (words and spaces) as argument. This function should return the length of all the words in the string. Return the results in a form of a dictionary. The string above should return:
 {'Hi': 2, 'my': 2, 'name': 4, 'is': 2, 'Richard': 7}
+
+
+Day 27
+
+
+Write a function called unique_numbers that takes a list of numbers as an argument. Your function is going to find all the unique numbers in the list. It will then sum up the unique numbers. You will calculate the difference between the sum of all the numbers in the original list and the sum of unique numbers in the list. If the difference is an even number, your function should return the original list. If the difference is an odd number, your function should return a list with unique numbers only. For example [1, 2, 4, 5, 6, 7, 8, 8] should return [1, 2, 4, 5, 6, 7, 8, 8].
