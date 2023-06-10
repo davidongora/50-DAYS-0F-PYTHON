@@ -303,3 +303,7 @@ You work for a local school in your area. The school has a list of names of stud
 Your code should not just sort them alphabetically, but it should also switch the names (the last name must be the first). Here is how your code output should look:
 ['Brown Chris', 'Cruise Tom', 'Keys Alicia', 'Perry Katie', 'Knowles Beyonce']
 Write a function called sorted_names.
+
+Day 31: Longest Word
+Write a function that has one parameter and takes a list of words as an argument. The function returns the longest word from the list. Name the function longest_word. The function should return the longest word and the number of letters in that word. For example, if you pass [‘Java, ‘JavaScript’, ‘Python’], your function should return
+[10, JavaScript] as the longest word.
