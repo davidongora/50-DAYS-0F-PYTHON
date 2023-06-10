@@ -287,3 +287,7 @@ Write a function called index_position. This function takes a string as a parame
 
 Extra Challenge: Largest Number
 Write a function called largest_number that takes a list of integers and re-arrange the individual digits to create the largest number possible. For example, if you pass the following as an argument: list1 = [3, 67, 87, 9, 2]. Your code should return the number in this exact format: 9,877,632 as the largest number.
+
+
+Day 29: Middle Figure
+Write a function called middle_figure that takes two parameters a, and b. The two parameters are strings. The function joins the two strings and finds the middle element. If the combined string has a middle element, the function should return the element, otherwise, return ‘no middle figure’. Use ‘make love’ as an argument for a and ‘not wars’ as an argument for b. Your function should return ‘e’ as the middle element. Whitespaces should be removed.
