@@ -280,3 +280,6 @@ Write a function called difference that takes two lists as arguments. This funct
 list1 = [1, 2, 4, 5, 6] list2 = [1, 2, 5, 7, 9] should return:
 [4, 6, 7, 9]
 Use list comprehension in your function.
+
+Day 28
+Write a function called index_position. This function takes a string as a parameter and returns the positions or indexes of all lower letters in the string. For example, ‘LovE’ should return [1,2].
