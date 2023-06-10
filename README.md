@@ -291,3 +291,7 @@ Write a function called largest_number that takes a list of integers and re-arra
 
 Day 29: Middle Figure
 Write a function called middle_figure that takes two parameters a, and b. The two parameters are strings. The function joins the two strings and finds the middle element. If the combined string has a middle element, the function should return the element, otherwise, return ‘no middle figure’. Use ‘make love’ as an argument for a and ‘not wars’ as an argument for b. Your function should return ‘e’ as the middle element. Whitespaces should be removed.
+
+Day 30: Most Repeated Name
+Write a function called repeated_name that finds the most repeated name in the following list.
+name = ["John", "Peter", "John", "Peter", "Jones", "Peter"]
