@@ -323,3 +323,8 @@ emails = ['ben@mail.com', 'john@mail.cm', 'kenny@gmail.com', '@list.com' ]
 Write a function called email_validator that takes a list of emails and checks if the emails are valid. The function returns a list of only valid emails. A valid email address will have the following - @ symbol (if the @ sign is at the beginning of the name, the email is invalid. If there are more than one @signs, the email is invalid. All valid emails must have a dot com at the end (.com), if not, the email is invalid. For example, the list of emails above should output the following as valid emails:
 ['ben@mail.com', 'kenny@gmail.com']
 If no emails in the list are valid, the function should return ‘all emails are invalid’
+
+Day 33: List Intersection
+
+Write a function called inter_section that takes two lists and finds the intersection (the elements that are present in both lists). The function should return a tuple of intersections. Use list comprehension in your solution. Use the lists below. Your function should return (30, 65, 80).
+list1 = [20, 30, 60, 65, 75, 80, 85] list2 = [ 42, 30, 80, 65, 68, 88, 95]
