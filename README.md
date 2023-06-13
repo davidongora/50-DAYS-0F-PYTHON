@@ -361,3 +361,7 @@ Write a function called count that takes one argument a string, and returns a di
 
 Day 37: Count the Vowels
 Create a function called count_the_vowels. The function takes one argument, a string, and returns the number of vowels in the string. For example, ‘hello’ should return 2 vowels. If a vowel appears in a string more than once it should be counted as one. For example, ‘saas’ should return 1 vowel. Your code should count lowercase and uppercase vowels.
+
+
+Day 38: Guess a Number
+Write a function called guess_a_number. The function should ask a user to guess a randomly generated number. If the user guesses a higher number, the code should tell them that the guess is too high, if the user guesses low, the code should tell them that their guess is too low. The user should get a maximum of three guesses. When the user guesses right, the code should declare them a winner. After three wrong guesses, the code should declare them a loser.
