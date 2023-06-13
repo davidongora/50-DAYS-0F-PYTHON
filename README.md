@@ -352,3 +352,8 @@ Write a function called check_pangram that takes a string and checks if it is a 
 Extra Challenge: Find my Position
 Write a function called find_index that takes two arguments; a list of integers, and an integer. The function should return the indexes of the integer in the list. If the integer is not in the list, the function should convert all the numbers in the list into the given integer.
 For example, if the list is: [1, 2, 4, 6, 7, 7] and the integer is 7, your code should return [4, 5] as the indexes of 7 in the list. If the list is [1, 2, 4, 6, 7, 7] and the integer is 8, your code should return [8, 8, 8, 8, 8, 8] because 8 is not in the list.
+
+
+Day 36: Count String
+Write a function called count that takes one argument a string, and returns a dictionary of how many times each element appears in the string. For example, ‘hello’ should return:
+{‘h’:1,’e’: 1,’l’:2, ‘o’:1}.
