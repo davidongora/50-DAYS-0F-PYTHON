@@ -357,3 +357,7 @@ For example, if the list is: [1, 2, 4, 6, 7, 7] and the integer is 7, your code 
 Day 36: Count String
 Write a function called count that takes one argument a string, and returns a dictionary of how many times each element appears in the string. For example, ‘hello’ should return:
 {‘h’:1,’e’: 1,’l’:2, ‘o’:1}.
+
+
+Day 37: Count the Vowels
+Create a function called count_the_vowels. The function takes one argument, a string, and returns the number of vowels in the string. For example, ‘hello’ should return 2 vowels. If a vowel appears in a string more than once it should be counted as one. For example, ‘saas’ should return 1 vowel. Your code should count lowercase and uppercase vowels.
