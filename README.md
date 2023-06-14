@@ -375,3 +375,14 @@ Write a function called missing_numbers that takes a list of sequence of numbers
 
 Day 39: Password Generator
 Create a function called generate_password that generates any length of password for the user. The password should have a random mix of upper letters, lower letters, numbers, and punctuation symbols. The function should ask the user how strong they want the password to be. The user should pick from - weak, strong, and very strong. If the user picks weak, the function should generate a 5-character long password. If the user picks strong, generate an 8-character password and if they pick very strong, generate a 12-character password.
+
+
+Day 40: Pig Latin
+Write a function called translate that takes the following words and translates them into pig Latin.
+a = 'i love python'
+Here are the rules:
+1. If a word starts with a vowel (a,e, i, o, u) add ‘yay’ at the
+end. For example, ‘eat’ will become ‘eatyay’
+2. If a word starts with anything other than a vowel, move the first letter to the end and add ‘ay’ to the end. For
+example, ‘day’ will become ‘ayday’.
+Your code should return: iyay ovelay ythonpay
