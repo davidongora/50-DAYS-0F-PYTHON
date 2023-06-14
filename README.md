@@ -371,3 +371,7 @@ Extra Challenge: Find Missing Numbers
 list = [1, 2, 3, 5, 6, 7, 9, 11, 12, 23, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 31]
 Write a function called missing_numbers that takes a list of sequence of numbers and finds the missing numbers in the sequence. The list above should return:
 [4, 8, 10, 13, 16, 29, 30]
+
+
+Day 39: Password Generator
+Create a function called generate_password that generates any length of password for the user. The password should have a random mix of upper letters, lower letters, numbers, and punctuation symbols. The function should ask the user how strong they want the password to be. The user should pick from - weak, strong, and very strong. If the user picks weak, the function should generate a 5-character long password. If the user picks strong, generate an 8-character password and if they pick very strong, generate a 12-character password.
