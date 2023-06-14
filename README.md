@@ -386,3 +386,7 @@ end. For example, ‘eat’ will become ‘eatyay’
 2. If a word starts with anything other than a vowel, move the first letter to the end and add ‘ay’ to the end. For
 example, ‘day’ will become ‘ayday’.
 Your code should return: iyay ovelay ythonpay
+
+
+Day 41: Only Words with Vowels
+Create a function called words_with_vowels, this function takes a string of words and returns a list of only words that have vowels in them. For example, ‘You have no rhythm’ should return [‘You’,’have’, ‘no’].
