@@ -398,3 +398,16 @@ bmw1 : model: x6, Color: silver, Year: 2018, Transmission: Auto, Electric: False
 You will create a class method, called print_cars that will be able to print out objects of the class. For example, if you call the method on the ford1 object of the Ford class, your function should be able to print out car info in this exact format:
 car_model = focus Color = White
 Year = 2020 Transmission = Auto Electric = False
+
+
+Day 41
+Notice that we are using the nested for loop to find the letters in the words. We iterate through the words to check if any of the letters in the words are vowels. If a word has a vowel in it, we append it to the vowels list. In the vowels list, we only have words that have vowels in them.
+def vowels_count(a):
+vowels = []
+for word in a.split():
+        for i in word:
+            if i in 'aeiou':
+if word not in vowels: vowels.append(word)
+    return vowels
+print(vowels_count('You have no rhythm'))
+
