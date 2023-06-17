@@ -417,3 +417,6 @@ Use the module textblob.
 
 Extra Challenge: Create an Alarm clock
 Create a function called alarm that sets an alarm clock for the user. The function should ask the user to enter time they want the alarm to go off. The user should enter the hour and minute. The function should then print out the time when the alarm will go off. When its alarm time, the code should let off a sound. Use the winsound module for sound.
+
+Day 43: Student Marks
+Write a function called student_marks that records marks achieved by students in a test. The function should ask the user to input the name of the student and then ask the user to input the marks achieved by the student. The information should be stored in a dictionary. The name is the key and the marks is the value. When the user enters done, the function should return a dictionary of names and values entered.
