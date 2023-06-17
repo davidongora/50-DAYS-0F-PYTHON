@@ -410,3 +410,7 @@ bmw1 : model: x6, Color: silver, Year: 2018, Transmission: Auto, Electric: False
 You will create a class method, called print_cars that will be able to print out objects of the class. For example, if you call the method on the ford1 object of the Ford class, your function should be able to print out car info in this exact format:
 car_model = focus Color = White
 Year = 2020 Transmission = Auto Electric = False
+
+Day 42: Spelling Checker
+Write a function called spelling_checker. This code asks the user to input a word and if a user inputs a wrong spelling it should suggest the correct spelling by asking the user if they meant to type that word. If the user says no, it should ask the user to enter the word again. If the user says yes, it should return the correct word. If the word entered by the user is correctly spelled the function should return the correct word.
+Use the module textblob.
