@@ -450,3 +450,8 @@ Extra Challenge: Website Data with Pandas
 Create a code that extracts data from a website. You will extract a table from the website. And from that table you will extract columns about the data types in Python and their mutability. You will extract information from the following website:
 https://en.wikipedia.org/wiki/Python_(programming_language)
 The following table (next page) is what you will extract from the website.
+
+
+Day 47: Save a JSON
+Write a function called save_json. This function takes a dictionary below as an argument and saves it on a file in JSON format.
+Write another function called read_json that opens the file that you just saved and reads its content.
