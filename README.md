@@ -433,3 +433,14 @@ Write a function called analyse_string that returns the number of special charac
 Use the string below as an argument:
 “Python has a string format operator %. This functions analogously to printf format strings in C, e.g. "spam=%s eggs=%d" % ("blah", 2) evaluates to "spam=blah eggs=2".
 Source Wikipedia.
+
+
+Day 46: Create a DataFrame
+Create a Dataframe using pandas. You are going to create a code to put the following into a Dataframe. You will use the information in the table below. Basically, you are going to recreate this table using pandas. Use the information in the table to recreate the table.
+   year Title
+2009 Brothers 2002 Spider-Man
+2009 WatchMen
+2010 Inception
+2009 Avatar
+genre
+Drama Sci-fi Drama Sci-fi Fantasy
