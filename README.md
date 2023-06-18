@@ -420,3 +420,8 @@ Create a function called alarm that sets an alarm clock for the user. The functi
 
 Day 43: Student Marks
 Write a function called student_marks that records marks achieved by students in a test. The function should ask the user to input the name of the student and then ask the user to input the marks achieved by the student. The information should be stored in a dictionary. The name is the key and the marks is the value. When the user enters done, the function should return a dictionary of names and values entered.
+
+Day 44: Save Emails
+Create a function called save_emails. This function takes no arguments but asks the user to input email, and it saves the emails in a CSV file. The user can input as many emails as they want. Once they hit ‘done’ the function saves the emails and closes the file. Create another function called open_emails. This function opens and reads the content of the CSV file. Each email must be in its line. Here is an example of how the emails must be saved:
+jj@gmail.com kate@yahoo.com
+and not like this: jj@gmail.comkate@yahoo.com
