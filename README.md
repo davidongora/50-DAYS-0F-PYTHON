@@ -460,3 +460,19 @@ Write another function called read_json that opens the file that you just saved 
 Day 48: Binary Search
 Write a function called search_binary that searches for the number 22 in the following list and returns its index. The function should take two parameters, the list and the item that is being searched for. Use binary search (iterative Method).
 list1 = [12, 34, 56, 78, 98, 22, 45, 13]
+
+
+Day 49: Create a Database
+For this challenge, you are going to create a database using Python’s SQLite. You will import SQLite into your script. Create a database called movies.db. In that database, you are going to create a table called movies. In that table, you are going to save the following movies:
+   year title
+2009 Brothers 2002 Spider Man
+2009 WatchMen
+2010 Inception
+2009 Avatar
+genre
+Drama Sci-fi Drama Sci-fi Fantasy
+                  a) Once you create a table, run a SQL query to see all the movies in your table.
+b) Run another SQL query to select only the movie Brothers from the list.
+c) Run another SQL query to select all movies that were released in 2009 from your table.
+d) Run another query to select movies in the fantasy and drama genre.
+e) Run a query to delete all the contents of your table.
