@@ -476,3 +476,7 @@ b) Run another SQL query to select only the movie Brothers from the list.
 c) Run another SQL query to select all movies that were released in 2009 from your table.
 d) Run another query to select movies in the fantasy and drama genre.
 e) Run a query to delete all the contents of your table.
+
+Day 50: Create a Flask App
+In this challenge, you will get to create an app using Flask. Flask is a Python web framework. Learning to build websites with Flask is a very important skill to have if you want to get into web development. You will build an app using Python, HTML, and CSS. I recommend using Visual studio code for this challenge. You can still use whatever code editor you are comfortable with. You are going to create an app with two pages, the home page and the about page. Your website will have a navigation bar, so you can move between the home page and the about page. It will have a background image. The image in the project is from Hasan Albari from Pexels.
+Below is what you should make:
